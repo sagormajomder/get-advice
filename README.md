@@ -5,6 +5,10 @@
 <p align="center">
 
   <h1 align="center">Advice Application</h1>
+</p>
+
+This is a simple application which shown different advice to the user. This application use a free [API](https://api.adviceslip.com/advice) to get all the advice.
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -15,10 +19,6 @@
 - [Extensions](#extensions)
 - [Design File](#design-file)
 - [Contact](#contact)
-
-This is a simple application which shown different advice to the user.
-
-This application use a free [API](<(https://api.adviceslip.com/advice)>) to get all the advice.
 
 ## Setup Project
 
@@ -33,7 +33,7 @@ git clone https://github.com/sagormajomder/get-advice.git
 ### Install Project
 
 ```sh
-    npm install
+npm install
 ```
 
 ## Extensions
